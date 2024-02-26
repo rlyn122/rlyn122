@@ -24,10 +24,11 @@ _Full Stack Open_
 
 <h2> Current Projects: </h2>
 
-__[Zufle-Research:](./Zufle-Research)__ 🔭 research to optimize location recommendation algorithms
+__[Zufle-Research:](../Zufle-Research)__ 🔭 research to optimize location recommendation algorithms
 
-__[Poro-Party:](./Poro-Party)__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
+__[Poro-Party:](../Poro-Party)__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
 
+__More to Come!!__
 
 <!--
 **rlyn122/rlyn122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
