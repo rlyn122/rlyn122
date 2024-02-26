@@ -18,8 +18,10 @@ _Full Stack Open_
 
 <h2>Language and Frameworks:</h2>
 
-![html](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,js,py,sql,mongodb,r)](https://skillicons.dev)
+
 ------
+
 <h2> Current Projects: </h2>
 
 __Zufle-Research__ 🔭 research to optimize location recommendation algorithms
