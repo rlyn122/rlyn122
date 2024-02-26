@@ -17,16 +17,14 @@ _Full Stack Open_
 ------
 
 <h2>Language and Frameworks:</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img alt="JS" src="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png]">
-</picture>
+
+![html](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
 ------
 <h2> Current Projects: </h2>
 
-__Poro-Party__ 🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
+__Zufle-Research__ 🔭 research to optimize location recommendation algorithms
 
-__Zufle-Research__ 🔭 research to optimize location recommendation aglorithms
+__Poro-Party__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
 
 
 <!--
