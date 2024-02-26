@@ -18,15 +18,15 @@ _Full Stack Open_
 
 <h2>Language and Frameworks:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,js,py,sql,mongodb,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,js,py,mysql,mongodb,r)](https://skillicons.dev)
 
 ------
 
 <h2> Current Projects: </h2>
 
-__Zufle-Research__ 🔭 research to optimize location recommendation algorithms
+__[Zufle-Research:](./Zufle-Research)__ 🔭 research to optimize location recommendation algorithms
 
-__Poro-Party__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
+__[Poro-Party:](./Poro-Party)__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
 
 
 <!--
