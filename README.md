@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Ryan Lin
 
-I am Ryan Lin!
- - <i>Currently:</i> BS CS and Math Student at Emory University
+ <i>Currently:</i> BS CS and Math Student at Emory University
 
 ------ 
 <h2>🌱 I’m currently learning ...</h2>
@@ -24,9 +23,9 @@ _Full Stack Open_
 
 <h2> Current Projects: </h2>
 
-__[[Zufle-Research:](../Zufle-Research)](https://github.com/rlyn122/Zufle-Research)__ 🔭 research to optimize location recommendation algorithms
+__[Zufle-Research:](https://github.com/rlyn122/Zufle-Research)__ 🔭 research to optimize location recommendation algorithms
 
-__[[Poro-Party:](../Poro-Party)](https://github.com/rlyn122/Poro-Party)__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
+__[Poro-Party:](https://github.com/rlyn122/Poro-Party)__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
 
 __More to Come!!__
 
