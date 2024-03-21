@@ -23,6 +23,8 @@ _Full Stack Open_
 
 <h2> Current Projects: </h2>
 
+__[Yelp-Analytics:](https://github.com/rlyn122/YelpAnalytics)__  🍔 learning about food and regional cuisines through data
+
 __[Zufle-Research:](https://github.com/rlyn122/Zufle-Research)__ 🔭 research to optimize location recommendation algorithms
 
 __[Poro-Party:](https://github.com/rlyn122/Poro-Party)__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
