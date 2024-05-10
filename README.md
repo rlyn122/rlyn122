@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Ryan Lin
 
- <i>Currently:</i> BS CS and Math Student at Emory University
+ <i>Currently:</i> BS CS and Math Student at Emory University. I love cooking, videogames, and coding. Checkout my portfolio  <a href="https://rlyn122.github.io/portfolio/"> here </a> 😺.
 
 ------ 
 <h2>🌱 I’m currently learning ...</h2>
@@ -28,6 +28,7 @@ __[Yelp-Analytics:](https://github.com/rlyn122/YelpAnalytics)__  🍔 learning a
 __[Zufle-Research:](https://github.com/rlyn122/Zufle-Research)__ 🔭 research to optimize location recommendation algorithms
 
 __[Poro-Party:](https://github.com/rlyn122/Poro-Party)__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
+
 
 __More to Come!!__
 
