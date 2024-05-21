@@ -15,6 +15,7 @@ _Emory University_
 
 _Past CS Courses_
   - cs350 Systems, cs370 Software Development, cs326 Analysis of Algorithms, cs377 Database Systems, cs325 Artificial Intelligence...
+
 _Past Business Courses_
   - act201 Intro to Accounting, isom350 Information Systems & Management, Math351 Intro to Statistics & Probabilities, MKT 340 Marketing
 
