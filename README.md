@@ -38,13 +38,13 @@ __[Yelp-Analytics:](https://github.com/rlyn122/YelpAnalytics)__  🍔 learning a
 
 __[Zufle-Research:](https://github.com/rlyn122/Zufle-Research)__ 🔭 research to optimize location recommendation algorithms, SQL, Python, Scipy.., matrices n stuff..
 
-
+__More to Come!!__
 
 <h2> Past Projects You can Check Out: 🏁 </h2>
 __[Poro-Party:](https://github.com/rlyn122/Poro-Party)__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
 
 
-__More to Come!!__
+
 
 <!--
 **rlyn122/rlyn122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
