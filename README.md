@@ -1,6 +1,6 @@
-### Hi there 👋 My name is Ryan Lin, I love cooking, videogames, outdoors, and coding.
+### Hi there 👋 My name is Ryan Lin 
 
- <i>Currently:</i> BS CS and Math Student at Emory University. Professionally, I hope to be able to combine my interest in business with my tech fluency. Feel free to hit me up on github or check me out on linkedin! 
+ <i>Currently:</i> BS CS and Math Student at Emory University. Professionally, I hope to be able to combine my interest in business with my tech fluency. Feel free to hit me up on github or check me out on linkedin! I love cooking, videogames, outdoors, and coding.
  Feel free to checkout my <a href="https://rlyn122.github.io/portfolio/"> portfolio </a> 😺 or <a href="https://www.linkedin.com/in/ryan-lin-b53688220/"> linkedin </a>. 
 
 ------ 
