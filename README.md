@@ -1,26 +1,20 @@
 ### Hi there 👋 My name is Ryan Lin 
 
  <i>Currently:</i> BS CS and Math Student at Emory University. Professionally, I hope to be able to combine my interest in business with my tech fluency. Feel free to hit me up on github or check me out on linkedin! I love cooking, videogames, outdoors, and coding.
- Feel free to checkout my <a href="https://rlyn122.github.io/portfolio/"> portfolio </a> 😺 or <a href="https://www.linkedin.com/in/ryan-lin-b53688220/"> linkedin </a>. 
+ Feel free to checkout my <a href="https://ryworld-lgb4.vercel.app/"> lil blog </a> 😺 or <a href="https://www.linkedin.com/in/ryan-lin-b53688220/"> linkedin </a>. 
 
 ------ 
 <h2>🌱 I’m currently learning ...</h2>
 
 _Emory University_
-  - cs470 Data Mining
-  - cs334 Machine Learning
-  - fin320 Corp Fin.
-  - oam330 Organization and Managmnt.
-  - math361 Statistics and Prob. I
+  - cs329 NLP
+  - fin 323 Investments
 
 _Past CS Courses_
-  - cs350 Systems, cs370 Software Development, cs326 Analysis of Algorithms, cs377 Database Systems, cs325 Artificial Intelligence...
+  - cs350 Systems, cs370 Software Development, cs326 Analysis of Algorithms, cs377 Database Systems, cs325 Artificial Intelligence..
 
 _Past Business Courses_
-  - act201 Intro to Accounting, isom350 Information Systems & Management, Math351 Intro to Statistics & Probabilities, MKT 340 Marketing
-
-_Full Stack Open_
-  - Web Develpment at https://fullstackopen.com
+  - act201 Intro to Accounting, isom350 Information Systems & Management, Math351 Intro to Statistics & Probabilities, MKT 340 Marketing, fin 320 corp fin...
 
 ------
 
