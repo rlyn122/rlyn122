@@ -26,11 +26,7 @@ _Past Business Courses_
 
 <h2> Current Projects: 👷 </h2>
 
-__[PomoCafe:](https://github.com/rlyn122/PomoCafe)__ 🎮 A full-stack MERN pomodoro timer that is supa chill
 
-__[Yelp-Analytics:](https://github.com/rlyn122/YelpAnalytics)__  🍔 learning about food and regional cuisines through data, Python, SQL, data n stuff..
-
-__[Zufle-Research:](https://github.com/rlyn122/Zufle-Research)__ 🔭 research to optimize location recommendation algorithms, SQL, Python, Scipy.., matrices n stuff..
 
 __More to Come!!__
 
@@ -38,6 +34,7 @@ __More to Come!!__
 
 __[Poro-Party:](https://github.com/rlyn122/Poro-Party)__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
 
+__[Yelp-Analytics:](https://github.com/rlyn122/YelpAnalytics)__  🍔 learning about food and regional cuisines through data, Python, SQL, data n stuff..
 
 
 
