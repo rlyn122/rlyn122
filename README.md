@@ -26,6 +26,8 @@ _Past Business Courses_
 
 <h2> Current Projects: 👷 </h2>
 
+__[871 Blog:](https://github.com/rlyn122/ryworld)__ Next.js Food Blog
+__[Lab Link:](https://github.com/rlyn122/lab-link)__ Emory Computer Science & Quantitative Science Research Chatbot
 
 
 __More to Come!!__
