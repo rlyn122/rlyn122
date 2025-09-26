@@ -2,8 +2,12 @@
 
  <i>Currently:</i> Performance Analyst at Oldcastle APG, a manufacturer of building products. I work to implement data science solutions across the business relating to performance. Feel free to chat me up about this :)
  
- <i>In Undergrad:</i> BS CS and Math Student at Emory University. Professionally, I hope to be able to combine my interest in business with my tech fluency. Feel free to hit me up on github or check me out on linkedin! I love cooking, videogames, outdoors, and coding.
- Feel free to checkout my <a href="https://ryworld-lgb4.vercel.app/"> lil blog </a> 😺 or <a href="https://www.linkedin.com/in/ryan-lin-b53688220/"> linkedin </a>. 
+ <i>In Undergrad:</i> BS CS and Math Student at Emory University. 
+ 
+ <i>Career Goal:</i> Professionally, I hope to be somewhere in the space between business and datascience. Kinda vague i know..
+ 
+ Feel free to hit me up on github or check me out on linkedin!I love cooking, videogames, outdoors, and coding.
+ My <a href="https://ryworld-lgb4.vercel.app/"> lil blog </a> 😺 or <a href="https://www.linkedin.com/in/ryan-lin122/"> linkedin </a>. 
 
 ------ 
 <!-- <h2>🌱 I’m currently learning ...</h2> -->
