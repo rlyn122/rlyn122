@@ -1,17 +1,17 @@
 ### Hi there 👋 My name is Ryan Lin 
 
- <i>Currently:</i> BS CS and Math Student at Emory University. Professionally, I hope to be able to combine my interest in business with my tech fluency. Feel free to hit me up on github or check me out on linkedin! I love cooking, videogames, outdoors, and coding.
+ <i>Currently:</i> Performance Analyst at Oldcastle APG, a manufacturer of building products. I work to implement data science solutions across the business relating to performance. Feel free to chat me up about this :)
+ 
+ <i>In Undergrad:</i> BS CS and Math Student at Emory University. Professionally, I hope to be able to combine my interest in business with my tech fluency. Feel free to hit me up on github or check me out on linkedin! I love cooking, videogames, outdoors, and coding.
  Feel free to checkout my <a href="https://ryworld-lgb4.vercel.app/"> lil blog </a> 😺 or <a href="https://www.linkedin.com/in/ryan-lin-b53688220/"> linkedin </a>. 
 
 ------ 
-<h2>🌱 I’m currently learning ...</h2>
+<!-- <h2>🌱 I’m currently learning ...</h2> -->
 
+------
 _Emory University_
-  - cs329 NLP
-  - fin 323 Investments
-
 _Past CS Courses_
-  - cs350 Systems, cs370 Software Development, cs326 Analysis of Algorithms, cs377 Database Systems, cs325 Artificial Intelligence..
+  - cs350 Systems, cs329 NLP, cs370 Software Development, cs326 Analysis of Algorithms, cs377 Database Systems, cs325 Artificial Intelligence..
 
 _Past Business Courses_
   - act201 Intro to Accounting, isom350 Information Systems & Management, Math351 Intro to Statistics & Probabilities, MKT 340 Marketing, fin 320 corp fin...
@@ -27,12 +27,13 @@ _Past Business Courses_
 <h2> Current Projects: 👷 </h2>
 
 __[871 Blog:](https://github.com/rlyn122/ryworld)__ Next.js Food Blog
-__[Lab Link:](https://github.com/rlyn122/lab-link)__ Emory Computer Science & Quantitative Science Research Chatbot
 
 
 __More to Come!!__
 
 <h2> Past Projects You can Check Out: 🏁 </h2>
+
+__[Lab Link:](https://github.com/rlyn122/lab-link)__ Emory Computer Science & Quantitative Science Research RAG Chatbot
 
 __[Poro-Party:](https://github.com/rlyn122/Poro-Party)__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
 
