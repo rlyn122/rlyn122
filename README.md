@@ -25,20 +25,20 @@ _Past Business Courses_
 
 ------
 
-<h2> Current Projects: 👷 </h2>
+<h2> Current Projects: </h2>
 
 __[871 Blog:](https://github.com/rlyn122/ryworld)__ Next.js Food Blog
 
 
 __More to Come!!__
 
-<h2> Past Projects You can Check Out: 🏁 </h2>
+<h2> Past Projects You can Check Out: </h2>
 
 __[Lab Link:](https://github.com/rlyn122/lab-link)__ Emory Computer Science & Quantitative Science Research RAG Chatbot
 
-__[Poro-Party:](https://github.com/rlyn122/Poro-Party)__     🐱is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
+__[Poro-Party:](https://github.com/rlyn122/Poro-Party)__   is an online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
 
-__[Yelp-Analytics:](https://github.com/rlyn122/YelpAnalytics)__  🍔 learning about food and regional cuisines through data, Python, SQL, data n stuff..
+__[Yelp-Analytics:](https://github.com/rlyn122/YelpAnalytics)__  learning about food and regional cuisines through data, Python, SQL, data n stuff..
 
 
 
