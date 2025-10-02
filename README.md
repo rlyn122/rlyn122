@@ -1,5 +1,3 @@
-### Hi there 👋 My name is Ryan Lin 
-
  <i>Currently:</i> Performance Analyst at Oldcastle APG, a manufacturer of building products. I work to implement data science solutions across the business relating to performance. Feel free to chat me up about this :)
  
  <i>In Undergrad:</i> BS CS and Math Student at Emory University. 
@@ -10,7 +8,6 @@
  My <a href="https://ryworld-lgb4.vercel.app/"> lil blog </a> 😺 or <a href="https://www.linkedin.com/in/ryan-lin122/"> linkedin </a>. 
 
 ------ 
-<!-- <h2>🌱 I’m currently learning ...</h2> -->
 
 ------
 _Emory University_
