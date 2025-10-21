@@ -1,6 +1,13 @@
  <i>Currently:</i> Performance Analyst at Oldcastle APG, a manufacturer of building products.
  <i>In Undergrad:</i> BS CS and Math Student at Emory University. 
 
+** mini bio: 
+**
+- i played LOL for 1/2 of my life since 2015 [(I'm so washed)](https://op.gg/lol/summoners/na/sukon)
+- im super indecisive
+- hot take: being really good at things is overrated
+
+
 <p> Past Projects: </p>
 
 __[Lab Link:](https://github.com/rlyn122/lab-link)__ Emory Computer Science & Quantitative Science Research RAG Chatbot
@@ -8,10 +15,5 @@ __[Lab Link:](https://github.com/rlyn122/lab-link)__ Emory Computer Science & Qu
 __[Poro-Party:](https://github.com/rlyn122/Poro-Party)__   Online multiplayer webgame using JS, Phaser3, NodeJs, and Sockets
 
 __[Yelp-Analytics:](https://github.com/rlyn122/YelpAnalytics)__  TF-IDF and Topic Modeling regional cuisines using YELP OPEN
-
-mini bio: 
-- i played LOL for 1/2 of my life since 2015 [(I'm so washed)](https://op.gg/lol/summoners/na/sukon)
-- im super indecisive
-- hot take: being really good at things is overrated
 
  My <a href="https://ryworld-lgb4.vercel.app/"> blog </a> 😺 or <a href="https://www.linkedin.com/in/ryan-lin122/"> linkedin </a>. 
