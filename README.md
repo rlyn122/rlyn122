@@ -1,11 +1,10 @@
- <i>Currently:</i> Performance Analyst at Oldcastle APG, a manufacturer of building products.  '25 Aug - Present
- <i>Undergrad:</i> Bachelor's of Science in Computer Science and Math + Business Minor @Emory University  '25
- <i>Associates:</i> Associate's Degree of Liberal Arts @Oxford College of Emory University '23
+ <i>Currently:</i> Performance Analyst @Oldcastle APG, a manufacturer of building products.  '25 Aug - Present  
+ <i>Undergrad:</i> Bachelor's of Science in Computer Science and Math + Business Minor @Emory University  '25  
+ <i>Associates:</i> Associate's Degree of Liberal Arts @Oxford College of Emory University '23  
 
 mini bio:  
-i played LOL for 1/2 of my life [(I'm so washed)](https://op.gg/lol/summoners/na/sukon)  
-hot take: big dogs are better   
-hot take: being really good at things is overrated  
+i played LOL for 1/2 of my life [(I'm so cooked)](https://op.gg/lol/summoners/na/sukon)  
+thats all u need to know...
 
 
 <p> Past Projects: </p>
