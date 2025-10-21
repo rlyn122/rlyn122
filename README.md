@@ -1,10 +1,9 @@
  <i>Currently:</i> Performance Analyst at Oldcastle APG, a manufacturer of building products.
- <i>In Undergrad:</i> BS CS and Math Student at Emory University. 
+ <i>In Undergrad:</i> BS CS and Math Student at Emory University. Business Minor.
 
-** mini bio: 
-**
-- i played LOL for 1/2 of my life since 2015 [(I'm so washed)](https://op.gg/lol/summoners/na/sukon)
-- im super indecisive
+mini bio:
+- i played LOL for 1/2 of my life [(I'm so washed)](https://op.gg/lol/summoners/na/sukon)
+- i have a super useful associates degree in liberal arts :/
 - hot take: being really good at things is overrated
 
 
