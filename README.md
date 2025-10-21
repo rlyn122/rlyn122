@@ -1,7 +1,7 @@
  <i>Currently:</i> Performance Analyst at Oldcastle APG, a manufacturer of building products.
  <i>In Undergrad:</i> BS CS and Math Student at Emory University. 
 
-<h2> Past Projects You can Check Out: </h2>
+<p> Past Projects You can Check Out: </p>
 
 __[Lab Link:](https://github.com/rlyn122/lab-link)__ Emory Computer Science & Quantitative Science Research RAG Chatbot
 
