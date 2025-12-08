@@ -1,7 +1,3 @@
- <i>Currently:</i> Performance Analyst @Oldcastle APG, a manufacturer of building products.  '25 Aug - Present  
- <i>Undergrad:</i> Bachelor's of Science in Computer Science and Math + Business Minor @Emory University  '25  
- <i>Associates:</i> Associate's Degree of Liberal Arts @Oxford College of Emory University '23  
-
 <p> Past Projects: </p>
 
 __[Lab Link:](https://github.com/rlyn122/lab-link)__ Emory Computer Science & Quantitative Science Research RAG Chatbot
