@@ -6,4 +6,4 @@ __[Poro-Party:](https://github.com/rlyn122/Poro-Party)__   Online multiplayer we
 
 __[Yelp-Analytics:](https://github.com/rlyn122/YelpAnalytics)__  TF-IDF and Topic Modeling regional cuisines using YELP OPEN
 
- My <a href="https://ryworld-lgb4.vercel.app/"> blog </a> 😺 or <a href="https://www.linkedin.com/in/ryan-lin122/"> linkedin </a>. 
+  <a href="https://ryworld-lgb4.vercel.app/"> blog </a> 😺 or <a href="https://www.linkedin.com/in/ryan-lin122/"> linkedin </a>. 
